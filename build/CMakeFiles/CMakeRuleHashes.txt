@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+c49effd06aad1f324a5ecf9a7fb1566b com.github.ScarWar.vala-hello-world_valac.stamp
+7b32fa43e028a62ba28b8827f82f0e7c src/hello-again.c

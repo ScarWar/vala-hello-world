@@ -1,0 +1,16 @@
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/CMakeFiles/install.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/CMakeFiles/list_install_components.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/CMakeFiles/rebuild_cache.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/CMakeFiles/com.github.ScarWar.vala-hello-world.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/CMakeFiles/edit_cache.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/CMakeFiles/install/strip.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/CMakeFiles/install/local.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/rebuild_cache.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/edit_cache.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/po.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/install.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/list_install_components.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/i18n.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/pot.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/install/local.dir
+/home/ariel/Projects/elementaryOS/hello-world/hello-again/build/po/CMakeFiles/install/strip.dir
